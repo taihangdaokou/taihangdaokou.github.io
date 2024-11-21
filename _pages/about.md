@@ -7,14 +7,16 @@ A marathon runner (not a finisher yet).
 
 Research Interest
 ======
-Ion beam lithography
-Irradiation damage
-Nanoimprint lithography
-Advanced electron microscopy
+Ion beam lithography  
+Irradiation damage  
+Nanoimprint lithography  
+Advanced electron microscopy  
 
 Academic Experiences
 ------
-[Robust Metal Nanostructures](../image/metal.jpg)/[Antireflective Surface](../image/antireflective.jpg)/[Robust Superhydrophobic Surface](../image/superhydrophobic.jpg)
+Currently focusing on [Robust Metal Nanostructures](../image/metal.jpg)/  
+Once dedicated in [Antireflective Surface](../image/antireflective.jpg)/ and [Robust Superhydrophobic Surface](../image/superhydrophobic.jpg)  
+Helped in electroplating, MEMS fabrication, and high-resolution helium ion lithography
 
 Create content & metadata
 ------
