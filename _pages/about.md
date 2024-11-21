@@ -10,6 +10,8 @@ About Me
 ------
 A thrid year master student in Department of Materials Science and Engineering in Southern University of Science and Technology, advised by Prof. Xing Cheng.
 
+[Jingfu Xu's Curriculum Vitae](../assets/Ducuments-CV-Jingfu Xu.pdf).
+
 Research Interest
 ------
 Ion beam lithography  
@@ -20,6 +22,6 @@ Advanced electron microscopy
 
 Academic Experiences
 ------
-Currently focusing on [Robust Metal Nanostructures](../images/metal.jpg)  
-Once dedicated in [Antireflective Surface](../images/antireflective.jpg) and [Robust Superhydrophobic Surface](../images/superhydrophobic.jpg)  
-Associated in electroplating, MEMS fabrication, and high-resolution helium ion lithography
+Currently focusing on [Robust Metal Nanostructures](../images/metal.jpg).  
+Once dedicated in [Antireflective Surface](../images/antireflective.jpg) and [Robust Superhydrophobic Surface](../images/superhydrophobic.jpg).  
+Associated in electroplating, MEMS fabrication, and high-resolution helium ion lithography.
