@@ -14,8 +14,8 @@ Advanced electron microscopy
 
 Academic Experiences
 ------
-Currently focusing on [Robust Metal Nanostructures](../image/metal.jpg)/  
-Once dedicated in [Antireflective Surface](../image/antireflective.jpg)/ and [Robust Superhydrophobic Surface](../image/superhydrophobic.jpg)  
+Currently focusing on [Robust Metal Nanostructures](../image/metal.jpg)  
+Once dedicated in [Antireflective Surface](../image/antireflective.jpg) and [Robust Superhydrophobic Surface](../image/superhydrophobic.jpg)  
 Helped in electroplating, MEMS fabrication, and high-resolution helium ion lithography
 
 Create content & metadata
