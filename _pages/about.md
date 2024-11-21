@@ -6,8 +6,6 @@ redirect_from:
  - /about.html
 ---
 
-About Me
-======
 A thrid year master student in Department of Materials Science and Engineering in Southern University of Science and Technology, advised by Prof. Xing Cheng.
 
 Research Interest
