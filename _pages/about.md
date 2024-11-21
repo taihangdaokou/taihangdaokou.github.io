@@ -8,7 +8,7 @@ redirect_from:
 
 About Me
 ======
-A someone feeling happy and lucky all the time./
+A someone feeling happy and lucky all the time.\n
 A laboratory person.
 A Chinese martial art lover and inheritor.
 A marathon runner (not a finisher yet).
