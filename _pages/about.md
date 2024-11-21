@@ -1,17 +1,17 @@
 ---
 permalink: /
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
-A someone feeling happy and lucky all the time.\n
-A laboratory person.
-A Chinese martial art lover and inheritor.
-A marathon runner (not a finisher yet).
+A someone feeling happy and lucky all the time.  
+A laboratory person.  
+A Chinese martial art lover and inheritor.  
+A marathon runner (not a finisher yet).  
 
 Research Interest
 ======
