@@ -12,6 +12,10 @@ A thrid year master student in Department of Materials Science and Engineering i
 
 [Jingfu Xu's Curriculum Vitae](../assets/Documents-CV-Jingfu Xu.pdf).
 
+Educational Background
+------
+2022, Materials Science and Engineering, Southern University of Science and Technology, Bachelor's degree
+
 Research Interest
 ------
 Ion beam lithography  
