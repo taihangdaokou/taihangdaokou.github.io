@@ -14,7 +14,7 @@ A thrid year master student in Department of Materials Science and Engineering i
 
 Educational Background
 ------
-2022, Materials Science and Engineering, Southern University of Science and Technology, Bachelor's degree
+B.S. in Materials Science and Engineering, Southern University of Science and Technology, PRC
 
 Research Interest
 ------
