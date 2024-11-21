@@ -1,13 +1,5 @@
----
-permalink: /
-title: "About Me"
-excerpt: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
+About Me
+======
 A someone feeling happy and lucky all the time.  
 A laboratory person.  
 A Chinese martial art lover and inheritor.  
@@ -22,7 +14,7 @@ Advanced electron microscopy
 
 Academic Experiences
 ------
-[Robust Metal Nanostructures](..image/metal.jpg)/[Antireflective Surface](..image/antireflective.jpg)/[Robust Superhydrophobic Surface](..image/superhydrophobic.jpg)
+[Robust Metal Nanostructures](../image/metal.jpg)/[Antireflective Surface](../image/antireflective.jpg)/[Robust Superhydrophobic Surface](../image/superhydrophobic.jpg)
 
 Create content & metadata
 ------
