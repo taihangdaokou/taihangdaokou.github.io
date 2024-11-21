@@ -18,7 +18,7 @@ Educational Background
 
 Research Interest
 ------
-Ion beam lithography  
+Helium ion microscopy  
 Irradiation damage  
 Nanoimprint lithography  
 Nanophotonics and biosensing  
