@@ -1,3 +1,11 @@
+---
+permalink: /
+author_profile: ture
+redirect_from: 
+ - /about/
+ - /about.html
+---
+
 About Me
 ======
 A someone feeling happy and lucky all the time.  
