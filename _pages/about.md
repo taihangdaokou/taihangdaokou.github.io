@@ -8,10 +8,9 @@ redirect_from:
 
 About Me
 ======
-A someone feeling happy and lucky all the time.  
-A laboratory person.  
-A Chinese martial art lover and inheritor.  
-A marathon runner (not a finisher yet).  
+A thrid year master student in Department of Materials Science and Engineering in Southern University of Science and Technology, advised by Prof. Xing Cheng.  
+
+[Email](xujingfu2000@gmail.com)
 
 Research Interest
 ======
@@ -24,7 +23,7 @@ Academic Experiences
 ------
 Currently focusing on [Robust Metal Nanostructures](../image/metal.jpg)  
 Once dedicated in [Antireflective Surface](../image/antireflective.jpg) and [Robust Superhydrophobic Surface](../image/superhydrophobic.jpg)  
-Helped in electroplating, MEMS fabrication, and high-resolution helium ion lithography
+Associated in electroplating, MEMS fabrication, and high-resolution helium ion lithography
 
 Create content & metadata
 ------
