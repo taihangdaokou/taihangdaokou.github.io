@@ -10,7 +10,7 @@ About Me
 ------
 A thrid year master student in Department of Materials Science and Engineering in Southern University of Science and Technology, advised by Prof. Xing Cheng.
 
-[Jingfu Xu's Curriculum Vitae](../assets/Ducuments-CV-Jingfu Xu.pdf).
+[Jingfu Xu's Curriculum Vitae](../assets/Documents-CV-Jingfu Xu.pdf).
 
 Research Interest
 ------
