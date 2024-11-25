@@ -18,11 +18,11 @@ Educational Background
 
 Research Interest
 ------
+Biosensing  
+Nanophotonics  
 Helium ion microscopy  
 Irradiation damage  
-Nanoimprint lithography  
-Nanophotonics and biosensing  
-Advanced electron microscopy  
+Nanoimprint lithography    
 
 Academic Experiences
 ------
